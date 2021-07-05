@@ -1,0 +1,98 @@
+# Comments and empty lines are allowed
+# List one URL per line:
+https://...
+https://...
+
+! 2021-01-05 https://gu.sina.cn
+! 2021-01-05 https://xw.qq.com
+! 2021-01-05 https://wallstreetcn.com
+! 2021-01-05 http://m.10jqka.com.cn
+! 2021-01-05 https://wap.eastmoney.com
+! 2021-01-05 https://weibo.com
+! 2021-01-05 https://www.jin10.com
+! 2021-01-05 https://m.sohu.com
+! 2021-01-05 https://m.cnbeta.com
+! 2021-01-06 https://m.cnbeta.com
+! 2021-01-06 https://gu.sina.cn
+! 2021-01-06 https://m.sohu.com
+! 2021-01-06 http://m.10jqka.com.cn
+! 2021-01-06 https://wap.eastmoney.com
+! 2021-01-06 https://xw.qq.com
+! 2021-01-06 https://m.amap.com
+! 2021-01-08 https://m.sohu.com
+! 2021-01-09 https://m.toutiao.com
+! 2021-01-09 https://m.sohu.com
+! 2021-01-16 https://m.sohu.com
+gu.sina.cn##div:nth-of-type(7)
+xw.qq.com##.with-xidi.share.jsx-3540702996
+wallstreetcn.com##.-bottom.fixed
+m.10jqka.com.cn###backWashNav
+m.10jqka.com.cn###backwash-btn-1
+wap.eastmoney.com##.stock-footer
+weibo.com##.btn
+gu.sina.cn##.js-app-header
+gu.sina.cn###hq_main > div
+gu.sina.cn##.hq-header-content
+gu.sina.cn##.hq-header
+gu.sina.cn##.hqhead-link > nav
+www.jin10.com##.jin10.jin10-applauncher
+m.sohu.com##.cbd-hot-rec-news
+m.sohu.com###Navbar8ecf42f455f68c156e7b160983687008645n3bmo59h6
+m.sohu.com##.dang
+m.cnbeta.com##.module.newinfo
+m.cnbeta.com##.module.hotinfo
+m.cnbeta.com##div.module:nth-of-type(5)
+m.cnbeta.com##div.module > div
+m.sohu.com##.nav-bar-doubleLine-height.navbar-expand-list
+m.sohu.com##.plate-sports.cbd-plate.cbd-plate-block
+m.sohu.com###PlateBlockc18d3c24e7db1e0237331609846873673id5ye9doix
+m.sohu.com###PlateBlockc18d3c24e7db1e0237331609846873712f0376tpsv6
+m.sohu.com###RecommendFeedab88bf8657893a20c4891609846873712ywa7vhfmcq
+m.sohu.com##.plate-fiction.cbd-plate.cbd-plate-block
+m.sohu.com###PlateBlockc18d3c24e7db1e0237331609846873710340m34fy0np
+m.sohu.com###CommonAd83fd18489c5eb4bef2bb16098468736723etacp05ol
+m.sohu.com###CommonAd83fd18489c5eb4bef2bb1609846873671euujfhfiycc > .common-ad.cbd-plate-bill
+m.sohu.com###CommonAd83fd18489c5eb4bef2bb1609849333013h4tqdt7em8u > .common-ad.cbd-plate-bill
+m.sohu.com###CommonAd83fd18489c5eb4bef2bb1609849333041qimgzz6yrf > .common-ad.cbd-plate-bill
+m.sohu.com###CommonAd83fd18489c5eb4bef2bb1609849333042rxplhqyo9l8 > .common-ad.cbd-plate-bill
+m.sohu.com###CommonAd83fd18489c5eb4bef2bb1609849333042ajfpckavbdp > .common-ad.cbd-plate-bill
+m.sohu.com###Comm
+m.sohu.com###PlateBlockc18d3c24e7db1e0237331609987156821abrz3pw7t3a
+m.sohu.com###RecommendFeedab88bf8657893a20c4891609987156822l4c3j5td6km
+m.sohu.com###PlateBlockc18d3c24e7db1e0237331609987156820v8yhj6ftcq
+m.sohu.com##.navbar-normal
+m.sohu.com##.hot-news
+gu.sina.cn###futures_master
+gu.sina.cn###furtureBottomBanner
+m.10jqka.com.cn##.qh-top.hexm-top
+m.10jqka.com.cn###qh_footer
+wap.eastmoney.com##.wrap
+xw.qq.com##.root.jsx-202163107
+xw.qq.com##.with-xidi.share.jsx-13089323
+m.amap.com##.clearfix.shadow.o-downloadtips-map
+m.sohu.com##.cbd-recommend
+m.toutiao.com##.OvjjLDxdvLL.ZIetYzVxbuKSjVLOgTEKDz
+m.toutiao.com##.ImYVFUyTSLwQHQRJbfO.EF
+m.toutiao.com##.download
+m.toutiao.com###ShVkOwrzMIybwMvKNVKqBsczTHJgl
+m.toutiao.com##.fUQMuPxzYQk.CzltdwkmzOldHAaK
+m.toutiao.com##.sdk-top-banner.KpqIWLisbGBDVJPuXx
+m.toutiao.com##.sdk-top-banner.qWBDCkABqZfoqXhp
+m.toutiao.com##.sdk-top-banner.WIaWvxfCZnOHzaNwsgSdobIaCmY
+m.toutiao.com##.CLoUd.znSgVtzpqKYOiC
+m.toutiao.com##.JCBXOolE
+m.toutiao.com##.sdk-top-banner
+m.sohu.com##.plate-astro.cbd-plate.cbd-plate-block
+m.sohu.com##.plate-animal.cbd-plate.cbd-plate-block
+m.sohu.com##.plate-it.cbd-plate.cbd-plate-block
+m.sohu.com##.plate-subject.cbd-plate.cbd-plate-block
+m.sohu.com##.house > .cbd-plate-head
+m.sohu.com##.plate-auto.cbd-plate.cbd-plate-block
+m.sohu.com###PlateBlockc18d3c24e7db1e0237331610790839266ix4v7hqexz
+m.sohu.com##.plate-shortvideo.cbd-plate.cbd-plate-block
+m.sohu.com###CommonAd83fd18489c5eb4bef2bb1610790839226xr50ecucvbd > .common-ad.cbd-plate-bill
+m.sohu.com###CommonAd83fd18489c5eb4bef2bb16107908392651llzn832swo > .common-ad.cbd-plate-bill
+m.sohu.com###PlateBlockc18d3c24e7db1e0237331610790839266brq1jxpc5s
+
+# The following line doesn't work, only put either a comment or an URL in one line, not both
+http://  # Invalid comment on URL
